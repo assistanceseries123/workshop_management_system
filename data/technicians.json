@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Suraj Kumar Patel",
+    "phone": "",
+    "specialization": "Engine & Mechanical",
+    "status": "Inactive"
+  },
+  {
+    "id": 2,
+    "name": "Dinesh Yadav",
+    "phone": "",
+    "specialization": "Engine & Mechanical",
+    "status": "Inactive"
+  },
+  {
+    "id": 3,
+    "name": "Raj Narayan Kohar",
+    "phone": "",
+    "specialization": "Electrical",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "Mukesh kohar",
+    "phone": "",
+    "specialization": "Engine & Mechanical",
+    "status": "Inactive"
+  },
+  {
+    "id": 5,
+    "name": "Durgesh yadav",
+    "phone": "",
+    "specialization": "Engine & Mechanical",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "name": "Surendra Rana Magar",
+    "phone": "",
+    "specialization": "Engine & Mechanical",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "name": "Surya Bharati",
+    "phone": "",
+    "specialization": "Engine & Mechanical",
+    "status": "Active"
+  }
+]
